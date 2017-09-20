@@ -1,2 +1,2 @@
-# django
-Having fun with the django framework 
+# Django
+Having fun with the django framework
